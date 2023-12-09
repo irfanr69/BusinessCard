@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="description_phone_number">+11 (111) 111 111 111</string>
+    <string name="description_email">user@android.com</string>
+    <string name="description_social_media">\@Android</string>
+    <string name="name">Irfan Rizqulloh</string>
+    <string name="title">Android Developer</string>
+</resources>
